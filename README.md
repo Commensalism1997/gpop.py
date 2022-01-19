@@ -5,7 +5,9 @@ Module that will help you collect data from gpop.io
 # Usage
 #### `GPopUserData`
 **NOTE**: all fields are `str`. Use `int()` to convert it to numbers
+
 A namedtuple class that contains user's data
+
 Fields:
 - level: Level
 - time: Total time played
